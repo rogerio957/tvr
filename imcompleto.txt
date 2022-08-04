@@ -1,0 +1,239 @@
+
+
+#EXTM3U
+#EXTINF:-1,AXN HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90715.ts
+#EXTINF:-1,Cine SKY 1 HD
+http://acsc.cc:80/0672648180/fireurl.co/72994.ts
+#EXTINF:-1,Cine SKY 10 HD
+http://acsc.cc:80/0672648180/fireurl.co/73003.ts
+#EXTINF:-1,Cine SKY 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/72995.ts
+#EXTINF:-1,Cine SKY 3 HD
+http://acsc.cc:80/0672648180/fireurl.co/72996.ts
+#EXTINF:-1,Cine SKY 4 HD
+http://acsc.cc:80/0672648180/fireurl.co/72997.ts
+#EXTINF:-1,Cine SKY 5 HD
+http://acsc.cc:80/0672648180/fireurl.co/72998.ts
+#EXTINF:-1,Cine SKY 6 HD
+http://acsc.cc:80/0672648180/fireurl.co/72999.ts
+#EXTINF:-1,Cine SKY 7 HD
+http://acsc.cc:80/0672648180/fireurl.co/73000.ts
+#EXTINF:-1,Cine SKY 8 HD
+http://acsc.cc:80/0672648180/fireurl.co/73001.ts
+#EXTINF:-1,Cine SKY 9 HD
+http://acsc.cc:80/0672648180/fireurl.co/73002.ts
+#EXTINF:-1,HBO 2HD
+http://acsc.cc:80/0672648180/fireurl.co/72112.ts
+#EXTINF:-1,HBO HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90697.ts
+#EXTINF:-1,HBO Xtreme SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90681.ts
+#EXTINF:-1,Megapix SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/131171.ts
+#EXTINF:-1,PT: A Bola TV
+http://acsc.cc:80/0672648180/fireurl.co/74800.ts
+#EXTINF:-1,PT: BTV HD
+http://acsc.cc:80/0672648180/fireurl.co/74825.ts
+#EXTINF:-1,PT: CMTV
+http://acsc.cc:80/0672648180/fireurl.co/74840.ts
+#EXTINF:-1,PT: NOS Studios
+http://acsc.cc:80/0672648180/fireurl.co/74921.ts
+#EXTINF:-1,PT: Odisseia
+http://acsc.cc:80/0672648180/fireurl.co/74924.ts
+#EXTINF:-1,PT: RECORD TV (NA)
+http://acsc.cc:80/0672648180/fireurl.co/74930.ts
+#EXTINF:-1,PT: Sport TV 1
+http://acsc.cc:80/0672648180/fireurl.co/74958.ts
+#EXTINF:-1,PT: Sport TV 1 HD
+http://acsc.cc:80/0672648180/fireurl.co/74962.ts
+#EXTINF:-1,PT: Sport TV 1 SD
+http://acsc.cc:80/0672648180/fireurl.co/74959.ts
+#EXTINF:-1,PT: Sport TV 2 HD
+http://acsc.cc:80/0672648180/fireurl.co/74967.ts
+#EXTINF:-1,PT: Sport TV 2 SD
+http://acsc.cc:80/0672648180/fireurl.co/74964.ts
+#EXTINF:-1,PT: Sport TV 3
+http://acsc.cc:80/0672648180/fireurl.co/74968.ts
+#EXTINF:-1,PT: Sport TV 3 HD
+http://acsc.cc:80/0672648180/fireurl.co/74971.ts
+#EXTINF:-1,PT: Sport TV 4
+http://acsc.cc:80/0672648180/fireurl.co/74972.ts
+#EXTINF:-1,PT: SyFy
+http://acsc.cc:80/0672648180/fireurl.co/74983.ts
+#EXTINF:-1,PT: TV Globo
+http://acsc.cc:80/0672648180/fireurl.co/131218.ts
+#EXTINF:-1,PT: AÇÃO TVCine
+http://acsc.cc:80/0672648180/fireurl.co/75002.ts
+#EXTINF:-1,PT: EDIÇÃO TVCine
+http://acsc.cc:80/0672648180/fireurl.co/75005.ts
+#EXTINF:-1,PT: TVCine EMOÇÃO
+http://acsc.cc:80/0672648180/fireurl.co/75008.ts
+#EXTINF:-1,SBT SP HD
+http://acsc.cc:80/0672648180/fireurl.co/72598.ts
+#EXTINF:-1,Espaço FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90677.ts
+#EXTINF:-1,Telecine Action 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90239.ts
+#EXTINF:-1,Telecine Action FHD
+http://acsc.cc:80/0672648180/fireurl.co/72346.ts
+#EXTINF:-1,Telecine Action FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72347.ts
+#EXTINF:-1,Telecine Action FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90668.ts
+#EXTINF:-1,Telecine Action HD
+http://acsc.cc:80/0672648180/fireurl.co/72348.ts
+#EXTINF:-1,Telecine Action HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90667.ts
+#EXTINF:-1,Telecine Action SD
+http://acsc.cc:80/0672648180/fireurl.co/72349.ts
+#EXTINF:-1,Telecine Action SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90666.ts
+#EXTINF:-1,Telecine Cult 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103456.ts
+#EXTINF:-1,Telecine Cult FHD
+http://acsc.cc:80/0672648180/fireurl.co/72350.ts
+#EXTINF:-1,Telecine Cult FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72351.ts
+#EXTINF:-1,Telecine Cult FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90665.ts
+#EXTINF:-1,Telecine Cult HD
+http://acsc.cc:80/0672648180/fireurl.co/72352.ts
+#EXTINF:-1,Telecine Cult HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90664.ts
+#EXTINF:-1,Telecine Cult SD
+http://acsc.cc:80/0672648180/fireurl.co/72353.ts
+#EXTINF:-1,Telecine Cult SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90663.ts
+#EXTINF:-1,Telecine Fun 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/103455.ts
+#EXTINF:-1,Telecine Fun FHD
+http://acsc.cc:80/0672648180/fireurl.co/72354.ts
+#EXTINF:-1,Telecine Fun FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72355.ts
+#EXTINF:-1,Telecine Fun FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90662.ts
+#EXTINF:-1,Telecine Fun HD
+http://acsc.cc:80/0672648180/fireurl.co/72356.ts
+#EXTINF:-1,Telecine Fun HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90661.ts
+#EXTINF:-1,Telecine Fun SD
+http://acsc.cc:80/0672648180/fireurl.co/72357.ts
+#EXTINF:-1,Telecine Fun SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90660.ts
+#EXTINF:-1,Telecine Pipoca 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90238.ts
+#EXTINF:-1,Telecine Pipoca FHD
+http://acsc.cc:80/0672648180/fireurl.co/72358.ts
+#EXTINF:-1,Telecine Pipoca FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72359.ts
+#EXTINF:-1,Telecine Pipoca FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90659.ts
+#EXTINF:-1,Telecine Pipoca HD
+http://acsc.cc:80/0672648180/fireurl.co/72360.ts
+#EXTINF:-1,Telecine Pipoca HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90658.ts
+#EXTINF:-1,Telecine Pipoca SD
+http://acsc.cc:80/0672648180/fireurl.co/72361.ts
+#EXTINF:-1,Telecine Pipoca SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90657.ts
+#EXTINF:-1,Telecine Premium 4K FHDR
+http://acsc.cc:80/0672648180/fireurl.co/90237.ts
+#EXTINF:-1,Telecine Premium FHD
+http://acsc.cc:80/0672648180/fireurl.co/72362.ts
+#EXTINF:-1,Telecine Premium FHD [H265]
+http://acsc.cc:80/0672648180/fireurl.co/72363.ts
+#EXTINF:-1,Telecine Premium FHD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90656.ts
+#EXTINF:-1,Telecine Premium HD
+http://acsc.cc:80/0672648180/fireurl.co/72364.ts
+#EXTINF:-1,Telecine Premium HD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90655.ts
+#EXTINF:-1,Telecine Premium SD
+http://acsc.cc:80/0672648180/fireurl.co/72365.ts
+#EXTINF:-1,Telecine Premium SD [LEG]
+http://acsc.cc:80/0672648180/fireurl.co/90654.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1,PT: Sport TV 4 HD
+http://acsc.cc:80/0672648180/fireurl.co/74974.ts
+#EXTINF:-1,PT: Sport TV 5
+http://acsc.cc:80/0672648180/fireurl.co/74975.ts
+
+#EXTINF:-1,PT: Sport TV 5 HD
+http://acsc.cc:80/0672648180/fireurl.co/74977.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
